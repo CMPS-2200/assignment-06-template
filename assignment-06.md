@@ -10,7 +10,7 @@ Complete the function `shortest_shortest_path` and test with the example graph g
 
 b) What is the work and span of your algorithm? 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -51,7 +51,7 @@ children (except possibly the rightmost leaf). What is the maximum
 depth of a $d$-ary heap?
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -69,7 +69,7 @@ heap property. What is the work done by
 work differs for each operation. 
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -83,7 +83,7 @@ $|V|$, $|E|$, and $d$ and will account for the `delete-min` and
 `insert` operations separately.
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -98,7 +98,7 @@ that we have a moderate number of edges, that is  $|E| = |V|^{1+\epsilon}$ for $
 < 1$. What value of $d$ yields an overall running time of $O(|E|)$?
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -110,7 +110,7 @@ that we have a moderate number of edges, that is  $|E| = |V|^{1+\epsilon}$ for $
 a) Consider a variation of the MST problem that instead asks for a tree that minimizes the maximum weight of any edge in the spanning tree. Let's call this the minimum maximum edge tree (MMET). Is a solution to MST guaranteed to be a solution to MMET? Why or why not?
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -120,7 +120,7 @@ a) Consider a variation of the MST problem that instead asks for a tree that min
 b) Suppose that the optimal solution to MST is impossible to use for some reason. Describe an algorithm to instead find the next best tree (pseudo-code or English is fine). That is, return the tree with the next lowest weight. 
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -130,7 +130,7 @@ b) Suppose that the optimal solution to MST is impossible to use for some reason
 c) What is the work of your algorithm?
 
 
-**put in answers.md**
+**Enter answer in `answers.md`**
 
 .  
 .  
