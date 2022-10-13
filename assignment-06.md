@@ -1,3 +1,12 @@
+# CMPS 2200 Assignment 5
+
+In this assignment we'll explore graph algorithms.
+
+As with previous assignments, your code implementations will go in `main.py`.
+Please add your written answers to `answers.md` which you can convert to a PDF
+using `convert.sh`. Alternatively, you may scan and upload written answers
+to a file names `answers.pdf`.
+
 ## 1. Shortest shortest paths
 
 a) Suppose we are given a a directed, **weighted** graph $G=(V,E)$ with only positive edge weights. For a source vertex $s$, design an algorithm to find the shortest path from $s$ to all other vertices with the fewest number of edges. That is, if there are multiple paths with the same total edge weight, output the one with the fewest number of edges.
