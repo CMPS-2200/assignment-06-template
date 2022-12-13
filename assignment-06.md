@@ -1,4 +1,4 @@
-# CMPS 2200 Assignment 5
+# CMPS 2200 Assignment 6
 
 In this assignment we'll explore graph algorithms.
 
@@ -116,7 +116,7 @@ that we have a moderate number of edges, that is  $|E| = |V|^{1+\epsilon}$ for $
 
 ## 4. Spanning trees
 
-a) Consider a variation of the MST problem that instead asks for a tree that minimizes the maximum weight of any edge in the spanning tree. Let's call this the minimum maximum edge tree (MMET). Is a solution to MST guaranteed to be a solution to MMET? Why or why not?
+a) Consider a variation of the spanning tree problem that instead asks for a tree that minimizes the maximum weight of any edge in the spanning tree. Let's call this the minimum maximum edge tree (MMET). Is a solution to MST guaranteed to be a solution to MMET? Why or why not?
 
 
 **Enter answer in `answers.md`**
@@ -126,7 +126,7 @@ a) Consider a variation of the MST problem that instead asks for a tree that min
 .  
 
 
-b) Suppose that the optimal solution to MST is impossible to use for some reason. Describe an algorithm to instead find the next best tree (pseudo-code or English is fine). That is, return the tree with the next lowest weight. 
+b) Suppose that you have a MST but it is impossible to use for some reason. Describe an algorithm to instead find the next best tree (pseudo-code or English is fine). That is, return the tree with the next lowest weight. 
 
 
 **Enter answer in `answers.md`**
