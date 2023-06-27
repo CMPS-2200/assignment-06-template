@@ -50,7 +50,7 @@ b) Next, complete `get_path`, which takes in the parent `dict` and a node, and r
 ## 3. Improving Dijkstra
 
 In our analysis of the work done by Dijkstra's algorithm, we ended up
-with a bound of $O(|E|\log |E|)$. Let's take a closer look at how
+with a bound of $O(|E|\log |V|)$. Let's take a closer look at how
 changing the type of heap used affects this work bound.
 
 a) A $d$-ary heap is a generalization of a binary heap in which we
